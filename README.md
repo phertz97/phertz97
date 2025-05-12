@@ -1,6 +1,6 @@
 # Hi, I´m Philipp Ertz
 
-- 👋 I am a Meterologist and Climate Researcher based at Bonn University.
+- 👋 I am a Meteorologist based at Bonn University.
 - 👀 I’m interested in atmoshperic postprocessing, long-term initialized climate prediction, Bayesian hierarchical modeling and extreme value statistics. I work mainly in Python, R and Stan.
 - 😄 Pronouns: he/him
 
